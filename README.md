@@ -5,17 +5,27 @@ This project focuses on analyzing Netflix data to gain insights of content descr
 Table of Contents
 
 Import Libraries
+
 Loading The Dataset
+
 Checking The Number Of Rows & Columns in Data
+
 Checking Content Available in Dataset
+
 How to check column names of the dataset
+
 Analyzing Content Ratings
+
 Analyzing Top Directors
+
 Analyzing Top Actors
+
 Analyzing Content Produced Over the Years
+
 Analyzing Top Countries Based on Content
+
 Analyzing Top Genres on Netflix
-Sentiment Analysis of Netflix Content Descriptions
+
 
 Import Libraries
 
